@@ -12,3 +12,4 @@ uus sissekanne 30.sept - viimane oli kellegile n2itamiseks.
 teine oktoober
 kolmas oktoober
 neljas oktoober
+kuues oktoobeer
